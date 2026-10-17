@@ -55,6 +55,7 @@ Archived plans: `superpowers/plans/archive/`
 
 ## Other documentation
 
+- [`project-research-mcp.md`](project-research-mcp.md) — optional public-source fact checking for Valles candidates with Parallel Search MCP in Claude Code
 - [`CHANGELOG-2026-04-17-18.md`](CHANGELOG-2026-04-17-18.md) — historical changelog snippet (April inflection week)
 - [`atomic-deploy-migration.md`](atomic-deploy-migration.md) — deploy migration notes
 - [`strategy-backtest-report.md`](strategy-backtest-report.md) — historical backtest report (⚠️ check dates against #223)

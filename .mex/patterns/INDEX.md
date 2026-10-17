@@ -1,7 +1,7 @@
 ---
 name: patterns-index
 description: Index of pattern files. Each pattern is a task-shaped runbook with steps + gotchas + verification. ROUTER.md tells you to check this file at the start of any task.
-last_updated: 2026-06-04
+last_updated: 2026-10-17
 ---
 
 # Pattern Index
@@ -19,6 +19,7 @@ last_updated: 2026-06-04
 | Extender el sync read-only de Binance con un paso nuevo | [extender-sync-binance.md](extender-sync-binance.md) |
 | Refrescar la lista de candidatas del screener de valles | [correr-screener-valles.md](correr-screener-valles.md) |
 | Generar un dossier de due-diligence de un proyecto | [generar-un-dossier.md](generar-un-dossier.md) |
+| Check current public facts about a project with Parallel Search MCP | [research-project-sources.md](research-project-sources.md) |
 
 ## How to grow this index
 
